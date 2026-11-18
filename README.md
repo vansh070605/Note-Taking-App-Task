@@ -1,4 +1,4 @@
-# 📝 NoteNest
+# NoteNest
 
 A full-stack note-taking app. Users sign up, log in, and manage their own private notes. Notes are strictly scoped to their owner: no user can read, edit, or delete another user's notes.
 
